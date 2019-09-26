@@ -68,5 +68,13 @@
         "mpinCreated": true
       }
     }
+  ],
+  "name-test":[
+    {
+      "name":{"type":"string"},
+      "set_attributes": {
+        "nameValidate": true
+      }
+    }
   ]
 }
