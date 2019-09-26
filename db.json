@@ -69,7 +69,7 @@
       }
     }
   ],
-  "name-test":[
+  "name_test":[
     {
       "name":{"type":"string"},
       "set_attributes": {
